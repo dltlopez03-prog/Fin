@@ -1,5 +1,4 @@
 # install_dependencies.py
-key = "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"
 import subprocess
 import sys
 from tqdm import tqdm
